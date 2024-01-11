@@ -2,6 +2,7 @@ package com.array;
 
 public class Frequrncy {
 	public static void array() {
+		System.out.println(1);
 		int arr[]= {4,3,2,4,2,2,9,2,3,4};
 		for (int i=0; i<arr.length; i++) {
 			int count=0;
